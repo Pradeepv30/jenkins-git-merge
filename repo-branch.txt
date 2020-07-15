@@ -1,0 +1,1 @@
+https://github.com/Pradeepv30/jenkins-git-merge.git&test
